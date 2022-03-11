@@ -1,4 +1,5 @@
 FUNÇÕES NO ALURAFLIX
+
 PARTICIPE E VÁ MAIS FUNDO
 Na maior parte das vezes, queremos que a entrada dos nossos dados não seja apenas através do código que desenvolvemos ou pelo console, mas sim na tela. No nosso projeto AluraFlix queremos fazer dessa mesma maneira, e para isso utilizaremos o input.
 
